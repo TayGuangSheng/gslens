@@ -1,6 +1,16 @@
 # GSLens test releases
 
-[Download GSLens 0.1.0 test APK](https://github.com/TayGuangSheng/gslens/raw/refs/heads/main/downloads/GSLens-0.1.0-debug.apk). Open this link in your phone's browser. Release notes are on the [Releases page](https://github.com/TayGuangSheng/gslens/releases).
+[Download GSLens 0.2.0 test APK](https://github.com/TayGuangSheng/gslens/raw/refs/heads/main/downloads/GSLens-0.2.0-debug.apk). Open this link in your phone's browser. Release notes are on the [Releases page](https://github.com/TayGuangSheng/gslens/releases).
+
+## 0.2.0 — camera interface update
+
+- iPhone Camera–inspired layout with a red record control, white vector buttons, yellow VIDEO indicator, and a larger viewfinder.
+- The three-circle button opens the filter and intensity tray.
+- Latest-clip thumbnail, focus brackets, and a recording timer.
+- Responsive portrait and landscape layouts. Turn the phone before recording; orientation locks for each clip. Rotation also handles 180-degree turns while idle.
+- Same application ID and development signing key as 0.1.0, with a higher version code for an in-place update.
+
+Build, 13 LUT tests, lint (no errors), and matching APK signature checks passed. Physical Samsung UI and recording checks remain outstanding.
 
 ## 0.1.0 — first phone test build
 
