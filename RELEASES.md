@@ -1,6 +1,6 @@
 # GSLens test releases
 
-Download the Android test APK from this repository's [Releases page](https://github.com/TayGuangSheng/gslens/releases).
+[Download GSLens 0.1.0 test APK](https://github.com/TayGuangSheng/gslens/raw/refs/heads/main/downloads/GSLens-0.1.0-debug.apk). Open this link in your phone's browser. Release notes are on the [Releases page](https://github.com/TayGuangSheng/gslens/releases).
 
 ## 0.1.0 — first phone test build
 
